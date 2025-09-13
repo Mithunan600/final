@@ -1,0 +1,17 @@
+{
+  "Apple_Apple_scab": 0.9841269841269841,
+  "Apple_Black_rot": 0.9919354838709677,
+  "Apple_Cedar_apple_rust": 0.9636363636363636,
+  "Apple_healthy": 0.9876923076923076,
+  "Blueberry_healthy": 0.9932659932659933,
+  "Cherry_(including_sour)_Powdery_mildew": 0.9951690821256038,
+  "Cherry_(including_sour)_healthy": 0.9882352941176471,
+  "Corn_(maize)_Cercospora_leaf_spot Gray_leaf_spot": 0.8431372549019608,
+  "Corn_(maize)_Common_rust_": 1.0,
+  "Corn_(maize)_Northern_Leaf_Blight": 0.9794871794871794,
+  "Corn_(maize)_healthy": 1.0,
+  "Grape_Black_rot": 0.9659574468085106,
+  "Grape_Esca_(Black_Measles)": 0.9745454545454545,
+  "Grape_Leaf_blight_(Isariopsis_Leaf_Spot)": 1.0,
+  "Grape_healthy": 0.9882352941176471
+}
